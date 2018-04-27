@@ -1,2 +1,2 @@
 # Kill My Friends
-Mi primer juego desarrollado en Android junta las caras de 5 amigos míos, sus consentimientos y minutos de diversión!! (tampoco es que de para horas y horas de juego...)
+Mi primer juego desarrollado en Android. Con las caras de 5 amigos míos como protagonistas solo puedes esperar... ¡minutos y minutos de diversión! (el juego tampoco es que de para jugar durante horas)
